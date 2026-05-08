@@ -1,0 +1,2 @@
+# Alzheimer-Disease-Classification-and-Progression-Analysis-with-AI
+This project presents an AI-based framework for Alzheimer’s disease classification and progression analysis using MRI neuroimaging data. The system focuses on accurate early-stage detection, automated disease analysis, and interpretable predictions through Explainable AI (XAI) techniques to support reliable clinical decision-making.
